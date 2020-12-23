@@ -1,0 +1,16 @@
+#works-title{
+    font-size: 50px;
+    font-weight: 300;
+    text-align: center;
+    line-height: 26px;
+    margin-bottom: 80px;
+    letter-spacing: 1px;
+}
+.works-img{
+    width: 80%;
+    height: 80%
+}
+.works-content{
+padding: 10px;
+    height: 30%;
+}
